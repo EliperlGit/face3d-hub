@@ -1,0 +1,12 @@
+numpy>=1.22.0
+opencv-python
+scipy
+scikit-image
+scikit-learn
+matplotlib
+Pillow
+tqdm
+pyyaml
+imageio
+imageio-ffmpeg
+requests
